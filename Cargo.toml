@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-automatic-mount-management"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS automatic-mount-management component - filesystem"
+
+[lib]
+name = "automatic_mount_management"
+path = "src/lib.rs"
