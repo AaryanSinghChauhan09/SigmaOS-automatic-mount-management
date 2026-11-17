@@ -3,7 +3,7 @@ name = "SigmaOS-automatic-mount-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "automatic-mount-management component"
+description = "Automatic Mount Management"
 upstream = []
 
 [contract]
